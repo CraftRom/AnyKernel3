@@ -2,7 +2,7 @@ NAME ?= Chidori-Kernel
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := 10-onclite
+CODE := 11-onclite
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
