@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Chidori Kernel by @mrshterben || Telegram
+kernel.string=Chidori Kernel by mrshterben @ Telegram
 do.devicecheck=1
 do.modules=1
 do.systemless=1
