@@ -2,7 +2,7 @@ NAME ?= Chidori-Kernel
 
 DATE := $(shell date "+%Y%m%d-%H%M")
 
-CODE := 11-lavender
+CODE := 11-ginkgo-willow
 
 ZIP := $(NAME)-$(CODE)-$(DATE).zip
 
